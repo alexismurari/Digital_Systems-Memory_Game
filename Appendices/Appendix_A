@@ -1,0 +1,21 @@
+Appendix A:
+
+
+HEX[5:3]: Time score
+HEX[2]: Symbols Display
+HEX[1]: Current Round
+HEX[0]: Input Display
+KEY[3]: Enter
+
+
+
+SW[9]: Reset
+(Press	Enter)
+SW[8]: Fast Display
+SW[7]: Scrambled Display
+SW[6]: 6 rounds (3 if off)
+SW[2:0]: Input
+
+LED[9:7]: Correct Input
+LED[2:0]: Incorrect Input, time penalty counts up twice as fast
+LED[9:0]: Win
