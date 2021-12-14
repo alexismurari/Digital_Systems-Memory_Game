@@ -1,4 +1,4 @@
---------------------*Introduction*--------------------
+## Introduction
 
 For this project, we designed and implemented a memory game on the FPGA board. We wanted to create a game that would be simple to understand and competitive between different players who would play the game. The concept of the game was to have players determine and remember a sequence of symbols that would increase in length as the game went on. A timer would be implemented to keep a record of the player’s score, which they could use to challenge others with or improve themselves with more practice. 
 
@@ -27,7 +27,7 @@ An incorrect input will require you to start from the first input again.
 
 
 
---------------------*The Design*--------------------
+## The Design
 
 Top Level Module:
 The top module connects all of the sub modules needed for the game.
