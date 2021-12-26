@@ -1,3 +1,9 @@
+# Titlescreen
+
+<p align="center">
+  <img src="https://github.com/alexismurari/Digital_Systems-Memory_Game/blob/main/Titlescreen.png" width="600"/>
+</p>
+
 ## Introduction
 
 For this project, we designed and implemented a memory game on the FPGA board. We wanted to create a game that would be simple to understand and competitive between different players who would play the game. The concept of the game was to have players determine and remember a sequence of symbols that would increase in length as the game went on. A timer would be implemented to keep a record of the player’s score, which they could use to challenge others with or improve themselves with more practice. 
